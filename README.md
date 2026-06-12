@@ -1,4 +1,4 @@
-# 🧬 MultiModal DRUG-RESPONSE-TRANSFORMER 
+# 🧬 MultiModal Drug Response Transformer Project
 
 A Multimodal Deep Learning Model for Predicting Drug Response using Drug Features and RNA Expression Data.
 
